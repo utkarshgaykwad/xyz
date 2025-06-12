@@ -1,3 +1,3 @@
 # xyz
 Git repository 
-Author - Utkarsh
+Author - Utkarsh (xyz)
